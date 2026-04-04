@@ -7,16 +7,16 @@ Este repositório criado para registrar minha evolução no aprendizado de Java,
 - Operadores aritméticos e lógicos
 
 📦 exercicios-java  
- ┣ 📂 variaveis
- ┣ 📂 operadores
- ┣ 📂 scanner
- ┣ 📂 condicionais
- ┣ 📂 loops
- ┣ 📂 strings
- ┣ 📂 arrays
- ┣ 📂 metodos
- ┣ 📂 classes-e-objetos
- ┗ 📂 exercicios-fixacao
+ ┣ 📂 variaveis  
+ ┣ 📂 operadores  
+ ┣ 📂 scanner  
+ ┣ 📂 condicionais  
+ ┣ 📂 loops  
+ ┣ 📂 strings  
+ ┣ 📂 arrays  
+ ┣ 📂 metodos  
+ ┣ 📂 classes-e-objetos  
+ ┗ 📂 exercicios-fixacao  
 
 🎯 Objetivo  
 Praticar os fundamentos da linguagem Java e construir uma base sólida para projetos mais complexos. Além de estar registrando minha evolução
