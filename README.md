@@ -1,15 +1,15 @@
-# ☕ Exercícios de Java Básico  
+## ☕ Exercícios de Java Básico  
 Criei esse repositório para registrar minha evolução no aprendizado de Java, contendo exercícios práticos desenvolvidos durante meu primeiro semestre em Engenharia de Software.
 
-# 📚 Conteúdos abordados  
+## 📚 Conteúdos abordados  
 - Entrada e saída de dados com Scanner
 - Variáveis e tipos primitivos
 - Operadores aritméticos e lógicos
 
-# 🎯 Objetivo  
+## 🎯 Objetivo  
 Praticar os fundamentos da linguagem Java e construir uma base sólida para projetos mais complexos. Além de estar registrando minha evolução
 
-# 📈 Status  
+## 📈 Status  
 🚧 Em andamento. Estarei adicionando novos exercícios constantemente, e conforme minha evolução, os exercícios irão evoluir respectivamente!
 
 
