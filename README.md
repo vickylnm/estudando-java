@@ -1,5 +1,5 @@
 ☕ Exercícios de Java Básico  
-Este repositório criado para registrar minha evolução no aprendizado de Java, contendo exercícios práticos desenvolvidos durante meu primeiro semestre em Engenharia de Software.
+Criei esse repositório para registrar minha evolução no aprendizado de Java, contendo exercícios práticos desenvolvidos durante meu primeiro semestre em Engenharia de Software.
 
 📚 Conteúdos abordados  
 - Entrada e saída de dados com Scanner
