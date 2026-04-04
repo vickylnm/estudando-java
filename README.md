@@ -9,5 +9,5 @@ Este repositório criado para registrar minha evolução no aprendizado de Java,
 🎯 Objetivo
 Praticar os fundamentos da linguagem Java e construir uma base sólida para projetos mais complexos.
 
-🛠️ Tecnologias
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
