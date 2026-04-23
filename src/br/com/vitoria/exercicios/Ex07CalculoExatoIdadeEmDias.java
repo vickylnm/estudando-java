@@ -3,7 +3,7 @@ package br.com.vitoria.exercicios;
 import java.util.Scanner;
 
 /*
-* Exercício 07 - Cáculo Aproximado de Idade em Dias
+* Exercício 07 - Cáculo Exato de Idade em Dias
 *
 * Enunciado: Ler aniversário, idade, dia e mes atual e exibir 
 * a idade total em dias. (Considere que um ano tem 365 dias 
