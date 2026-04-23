@@ -28,7 +28,7 @@ Praticar os fundamentos da linguagem Java e construir uma base sólida para proj
 
 ---
 
-### 📦 [01 — Variáveis e Lógica](./01-variaveis-e-logica)
+### 📦 [01 — Variáveis e Lógica](.src/br/com/vitoria/exercicios/variaveis_e_logica)
 | # | Exercício | Descrição |
 |---|-----------|-----------|
 | 01 | [Conversão Dólar](.src/br/com/vitoria/exercicios/variaveis_e_logica/Ex01ConversaoDolar.java) | Converte valores em dólar |
