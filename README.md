@@ -35,7 +35,7 @@ Praticar os fundamentos da linguagem Java e construir uma base sólida para proj
 ### 📦 [01 — Variáveis e Lógica](src/br/com/vitoria/exercicios/variaveis_e_logica)
 | # | Exercício | Descrição |
 |---|-----------|-----------|
-| 01 | [Conversão Dólar](src/br/com/vitoria/exercicios/variaveis_e_logica/Ex01ConversaoDolar.java) | Converte valores em dólar |
+| 01 | [Conversão Dólar](src/br/com/vitoria/exercicios/variaveis_e_logica/Ex01ConversaoDolar.java) | Converte real em dólar |
 | 02 | [Números ao Quadrado](src/br/com/vitoria/exercicios/variaveis_e_logica/Ex02NumerosAoQuadrado.java) | Calcula quadrado de números |
 | 03 | [Comissão de Vendas](src/br/com/vitoria/exercicios/variaveis_e_logica/Ex03ComissaoDeVendas.java) | Calcula comissão de vendedor |
 | 04 | [Antecessor do Número](src/br/com/vitoria/exercicios/variaveis_e_logica/Ex04AntecessorDoNumero.java) | Retorna antecessor |
