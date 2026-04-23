@@ -35,6 +35,7 @@ public class Ex03ComissaoDeVendas {
         System.out.println("=== Resultado ===");
         System.out.printf("O valor da comissao recebida pelo vendedor a partir dessa venda foi de: R$ %.2f reais.      ", comissao);
         
+        sc.close();
         
     }
     

@@ -36,6 +36,8 @@ public class Ex02NumerosAoQuadrado {
         System.out.println("=== Resultado ===");
         System.out.print("Apos calcular o quadrado de todos os numeros, totaliza-se a soma: " + somaTotal + (" "));
         
+        sc.close();
+        
     }
     
 }

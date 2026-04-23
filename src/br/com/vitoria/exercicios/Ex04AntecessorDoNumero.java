@@ -25,9 +25,10 @@ public class Ex04AntecessorDoNumero {
         // -- Saída de Dados --
 
         System.out.println();
-        System.out.println(" === Resultado ===");
+        System.out.println("=== Resultado ===");
         System.out.println("O antecessor de " + valorInteiro + ": " + antecessor);
         
+        sc.close();
     }
     
 }
