@@ -5,6 +5,10 @@ Criei esse repositório para registrar minha evolução no aprendizado de Java, 
 - Entrada e saída de dados com Scanner
 - Variáveis e tipos primitivos
 - Operadores aritméticos e lógicos
+- Loops
+- Condicionais
+- Arrays
+- *Mais*
 
 ## 🎯 Objetivo  
 Praticar os fundamentos da linguagem Java e construir uma base sólida para projetos mais complexos. Além de estar registrando minha evolução
